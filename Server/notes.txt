@@ -1,0 +1,10 @@
+SQL DB -> Tables = Collections in NoSQL DB like MongoDB
+Rows in SQL DB Tables = Documents in NoSQL DB like MongoDB
+
+Note Important topic :-
+
+MONGOBD_URL: //CREATE YOUR_OWN MONGBD_URL
+JWT_SECRET: //CREATE YOUR OWN SECRET KEY
+
+//SERVER START WITH :- npm start 
+//CLIENT START WITH:- npm start
